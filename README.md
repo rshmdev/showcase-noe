@@ -16,6 +16,28 @@ O sistema gerencia o ciclo completo do serviço — descoberta, reserva, pagamen
 
 ---
 
+## Screenshots
+
+### Onboarding
+
+| Transporte Seguro | Pagamento Protegido | Acompanhe Tudo |
+|:---:|:---:|:---:|
+| ![Onboarding — Transporte Seguro](images/Screenshot_1772487469-left.png) | ![Onboarding — Pagamento Protegido](images/Screenshot_1772487471-left.png) | ![Onboarding — Acompanhe Tudo](images/Screenshot_1772487473-left.png) |
+
+### Autenticação e Perfil
+
+| Seleção de Perfil | Meu Perfil | Meus Pets |
+|:---:|:---:|:---:|
+| ![Seleção de Perfil](images/Screenshot_1772487476-left.png) | ![Meu Perfil](images/Screenshot_1772487521-left.png) | ![Meus Pets](images/Screenshot_1772487524-left.png) |
+
+### Fluxo do Tutor
+
+| Explorar Rotas | Reservar Viagem | Confirmar Entrega |
+|:---:|:---:|:---:|
+| ![Explorar Rotas](images/Screenshot_1772487493-left.png) | ![Reservar Viagem](images/Screenshot_1772487539-left.png) | ![Confirmar Entrega via QR](images/Screenshot_1772487508-left.png) |
+
+---
+
 ## 2. Contexto de Negócio
 
 ### O Problema
